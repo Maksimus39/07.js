@@ -1,0 +1,15 @@
+// Only change code below this line
+var a;
+var b;
+var c;
+// Only change code above this line
+
+a = a + 1;
+a=6;
+a;
+b = b + 5;
+b=15;
+b;
+c = c + " String!";
+c="I am a String!";
+c;
